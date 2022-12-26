@@ -1,1 +1,1 @@
-# ajaychinthapalli.github.io (work in progress)
+# ajaychinthapalli.github.io
