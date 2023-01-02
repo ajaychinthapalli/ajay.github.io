@@ -1,2 +1,1 @@
-# ajaychinthapalli.github.io
-
+[![pages-build-deployment](https://github.com/ajaychinthapalli/ajaychinthapalli.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ajaychinthapalli/ajaychinthapalli.github.io/actions/workflows/pages/pages-build-deployment)
